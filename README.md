@@ -8,7 +8,7 @@ This repo hosts the hippocampus model file described in this paper:
 First of all, you need to clone this repo. If you don’t use github, just click “clone or download” (the green button on the upper right), then click “Download ZIP”. And if you unzip it, you should get a folder called `\hippocampus`. The model file is `\hippocampus\src\Schapiro_etal_hippocampus_model_exercise.proj`
 
 
-Now we need to get emergent 7.0.1. A huge thanks [Daniel Greenidge](https://github.com/cdgreenidge), who made a virtual machine image that contains Emergent 7.0.1! A detailed explanation of the installation process is described below, modified from [Daniel’s documentation](https://github.com/cdgreenidge/emergent7-vm). 
+Now we need to get emergent 7.0.1. A huge thanks to [Daniel Greenidge](https://github.com/cdgreenidge), who made a virtual machine image that contains Emergent 7.0.1! A detailed explanation of the installation process is described below, modified from [Daniel’s documentation](https://github.com/cdgreenidge/emergent7-vm). 
 
 
 **1.** Install VirtualBox to run the virtual machine image [here](https://www.virtualbox.org/wiki/Downloads). Made sure you install the version that corresponds to your OS (mac, windows or linux). 
@@ -54,4 +54,7 @@ Now the vm interface should look like this:
  
 <img src="https://github.com/ProjectSEM/hippocampus/blob/master/readme_sup/emergent7_interface.png" width="800" />
 
-Here’s a [assignment](https://docs.google.com/document/d/1n0sTdKeWUKJWlshFZMXMaoSFVoGVXyKTdMGYw9JXYJU/edit) based on this model, take a look if you are interested! 
+
+**Homework!?**
+
+Here’s an [assignment](https://docs.google.com/document/d/1n0sTdKeWUKJWlshFZMXMaoSFVoGVXyKTdMGYw9JXYJU/edit) based on this model, take a look if you are interested! 
