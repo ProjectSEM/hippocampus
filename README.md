@@ -37,7 +37,7 @@ select *File* > *Import Appliance*. Choose the virtual machine image (`emergent7
 <img src="https://github.com/ProjectSEM/hippocampus/blob/master/readme_sup/virtualbox_interface.png" width="600" />
 
 
-**4.Start the virtual machine ** 
+**4.Open the virtual machine image** 
 
 Start the virtual machine by double-clicking “emergent7vm” on the VirtualBox home screen. 
 
